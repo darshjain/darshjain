@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning data structures and algorithms
 <!--
 **darshjain/darshjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
