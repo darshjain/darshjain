@@ -2,8 +2,9 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning data structures and algorithms
 - 📫 Catch me up on my website---- https://darshjain.github.io/<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darshjain&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshjain&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darshjain&show_icons=true&theme=tokyonight)
+
 
 <!--
 **darshjain/darshjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
