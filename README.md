@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshjain&layout=compact)](https://github.com/darshjain/github-readme-stats)
 ![Darsh's github stats](https://github-readme-stats.vercel.app/api?username=darshjain&show_icons=true&theme=default)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita2002&label=Profile%20views&color=0e75b6&style=flat" alt="darshjain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshjain &label=Profile%20views&color=0e75b6&style=flat" alt="darshjain" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshjain" alt="darshjain" /></a> </p>
 
 <p align="left"> 
