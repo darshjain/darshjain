@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently learning data structures and algorithms
+- 📫 I am also looking to learn in the domain of cyber security or blockchain.
 - 📫 Catch me up on my website---- https://darshjain.github.io/<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshjain&layout=compact)](https://github.com/darshjain/github-readme-stats)
 ![Darsh's github stats](https://github-readme-stats.vercel.app/api?username=darshjain&show_icons=true&theme=default)
