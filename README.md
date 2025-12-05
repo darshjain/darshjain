@@ -72,10 +72,10 @@ Fine tuned a 12B parameter model to automate C++ debugging via fault injection.
 </div>
 
 <!-- Stats -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=darshjain&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshjain&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-</div>
+</div> -->
 
 <!-- Footer -->
 <div align="center">
