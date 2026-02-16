@@ -23,6 +23,10 @@
 
 </div>
 
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=darshjain&theme=dark&hide_border=false)<br/>
+</div>
 <!-- Tech Stack -->
 <h3 align="center">⚡ Technical Arsenal</h3>
 <div align="center">
@@ -42,8 +46,8 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</div>
 
+</div>
 <!-- Innovation -->
 <h3 align="center">🚀 Innovation & Research</h3>
 <div align="center">
