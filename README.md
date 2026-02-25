@@ -109,7 +109,7 @@
 <div align="center">
   <code>2025</code> <b>UVA Darden School of Business</b> • Graduate Research Assistant (Data and AI)<br/>
   <code>2025</code> <b>Rhombus Power Inc.</b> • Full Stack Intern<br/>
-  <code>2023</code> <b>Lab Systems Pvt. Ltd.</b> • Software Developer (Blockchain)<br/>
+  <code>2023</code> <b>Lab Systems Pvt. Ltd.</b> • Founding Software Engineer (Blockchain)<br/>
 </div>
 
 <div align="center">
