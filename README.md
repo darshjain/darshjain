@@ -107,9 +107,10 @@
 <!-- Journey -->
 <h3 align="center">💼 The Journey</h3>
 <div align="center">
-  <code>2025</code> <b>UVA Darden School of Business</b> • Graduate Research Assistant (Data and AI)<br/>
+  <code>2026</code> <b>HeySago</b> • Software Engineer<br/>
+  <code>2025</code> <b>UVA Darden School of Business</b> • Data Engineering Graduate Research Assistant (Data and AI)<br/>
   <code>2025</code> <b>Rhombus Power Inc.</b> • Full Stack Intern<br/>
-  <code>2023</code> <b>Lab Systems Pvt. Ltd.</b> • Founding Software Engineer (Blockchain)<br/>
+  <code>2022</code> <b>Lab Systems Pvt. Ltd.</b> • Founding Software Engineer (Blockchain)<br/>
 </div>
 
 <div align="center">
