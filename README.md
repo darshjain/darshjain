@@ -18,7 +18,7 @@
 
 <p align="center">
   <b>Security</b> • <b>Cloud Computing</b> • <b>Blockchain</b><br/>
-  <i>Turning coffee into secure scalable code at the University of Virginia.</i>
+  <i>Turning coffee into secure scalable code </i>
 </p>
 
 </div>
